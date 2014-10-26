@@ -40,7 +40,7 @@ HTML静态页面开发入门介绍。目标用户是：没有前端开发基础�
 
 2. 互联网的开源环境使得一个菜鸟也可以轻松制作漂亮并且有合理交互的页面，进而搭建一个网站；
 
-3. 介绍的结尾部分，使用了impress中的几段煽情的文字，其中“The only limit is your imagination！”，这也是制作网站或WebApp的核心。
+3. 介绍的结尾部分，使用了impress中的几段煽情的文字，尤其是“The only limit is your imagination！”，这也是自己开发产品过程中的真实感受。
 
 
 ## 致谢
